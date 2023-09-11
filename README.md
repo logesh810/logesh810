@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Logesh  @logesh810
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Full stack developement
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 Mail ID: logeshsharma165@gmail.com 

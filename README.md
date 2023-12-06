@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 Mail ID: logeshsharma165@gmail.com 
-Website: https://logeshsankar.w3spaces.com/
-linkedIn: https://www.linkedin.com/in/logesh-sharma-499476210
 
 
 <!---

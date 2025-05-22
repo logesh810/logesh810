@@ -5,8 +5,9 @@
 - 📫 How to reach me 
 Mail ID: logeshsharma165@gmail.com 
 
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=FULLSTACK+DEVELOPER;ALWAYS LEARNER" /></a>
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=FULLSTACK+DEVELOPER;ALWAYS+A+LEARNER" /></a>
 </p>
 
 

@@ -5,6 +5,10 @@
 - 📫 How to reach me 
 Mail ID: logeshsharma165@gmail.com 
 
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=%2359A9FF&center=true&lines=FULLSTACK+DEVELOPER;ALWAYS LEARNER" /></a>
+</p>
+
 
 ## 🔥 Streak stats
 
